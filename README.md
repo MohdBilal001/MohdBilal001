@@ -31,6 +31,8 @@ Cloud & Tools: AWS, Cloudinary, Git, GitHub
 ## 📌 Projects
 
 - Inkline — Full-stack blogging platform
+  [Frontend](https://github.com/MohdBilal001/Inkline-frontend)  
+  [Backend](https://github.com/MohdBilal001/Inkline-backend)
 - Student Management API — Spring Boot REST API
 - Federated Healthcare — Python project
 - Book Kareedo — Java project
