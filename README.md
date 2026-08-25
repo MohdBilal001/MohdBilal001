@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mohd Bilal 👋
 
-<!--
-**MohdBilal001/MohdBilal001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | B.Tech CSE '26
 
-Here are some ideas to get you started:
+I build modern, production-ready web applications
+with React, Spring Boot, MySQL and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### Inkline
+A Medium-style blogging platform built with:
+
+- React + Vite
+- Spring Boot
+- MySQL
+- JWT Authentication
+- OAuth2
+- Cloudinary
+- REST APIs
+
+## 🛠️ Tech Stack
+
+Frontend: React, JavaScript, HTML, CSS, Tailwind CSS
+
+Backend: Java, Spring Boot, Spring Security
+
+Database: MySQL
+
+Cloud & Tools: AWS, Cloudinary, Git, GitHub
+
+## 📌 Projects
+
+- Inkline — Full-stack blogging platform
+- Student Management API — Spring Boot REST API
+- Federated Healthcare — Python project
+- Book Kareedo — Java project
+
+## 📫 Connect
+
+LinkedIn: ...
